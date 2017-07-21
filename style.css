@@ -1,0 +1,13 @@
+body {
+    font: normal 2.5em arial, sans-serif;
+}
+#about {
+    boarder-radius: 250px;
+
+}
+
+
+.navbar-custom {
+    color: #1b7dff;
+    background-color: #006c5b;
+}
